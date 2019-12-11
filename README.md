@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/DevSecOpsPOC/POC/_apis/build/status/raviburra09.pipelines-java?branchName=master)](https://dev.azure.com/DevSecOpsPOC/POC/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
